@@ -90,3 +90,23 @@ __【本稿の電子版はこちら💁】__
 <br>
 
 ![note_idea_image_vol2.jpg](./images/note_idea_image_vol2.jpg)
+
+### 3. iOSDC Japan 2024のパンフレット原稿に掲載できなかったサンプル実装を紐解いた際のまとめノート
+
+私が不定期に取り組んでいる活動の1つとして、YouTube等の動画コンテンツで提供されているコーディング解説で、気になったUI実装サンプルのコードを紐解いた記録を個人的にまとめています。その中で、本稿で紹介した内容より更に応用的なUI実装をしているサンプルを紐解いて、大まかなメカニズムをまとめたものを何点かご紹介致します。
+
+__【補足解説Vol.1🗒️】__
+
+![appendix_note_vol1.jpg](./images/appendix_note_vol1.jpg)
+
+__【補足解説Vol.2🗒️】__
+
+![appendix_note_vol2.jpg](./images/appendix_note_vol2.jpg)
+
+__【補足解説Vol.3🗒️】__
+
+![appendix_note_vol3.jpg](./images/appendix_note_vol3.jpg)
+
+__【補足解説Vol.4🗒️】__
+
+![appendix_note_vol4.jpg](./images/appendix_note_vol4.jpg)
