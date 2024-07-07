@@ -110,3 +110,15 @@ __【補足解説Vol.3🗒️】__
 __【補足解説Vol.4🗒️】__
 
 ![appendix_note_vol4.jpg](./images/appendix_note_vol4.jpg)
+
+__【補足解説Vol.5🗒️】__
+
+![appendix_note_vol5.jpg](./images/appendix_note_vol5.jpg)
+
+__【補足解説Vol.6🗒️】__
+
+![appendix_note_vol6.jpg](./images/appendix_note_vol6.jpg)
+
+__【補足解説Vol.7🗒️】__
+
+![appendix_note_vol7.jpg](./images/appendix_note_vol7.jpg)
