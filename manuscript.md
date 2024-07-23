@@ -122,3 +122,7 @@ __【補足解説Vol.6🗒️】__
 __【補足解説Vol.7🗒️】__
 
 ![appendix_note_vol7.jpg](./images/appendix_note_vol7.jpg)
+
+__【補足解説Vol.8🗒️】__
+
+![appendix_note_vol8.jpg](./images/appendix_note_vol8.jpg)
